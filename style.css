@@ -29,7 +29,7 @@ html, body {
 
 body {
     background: #FFF1E5;
-    color: black;
+    color: rgb(20, 20, 20);
     font-family: 'Playfair Display', serif;
     overflow: hidden;
 }
